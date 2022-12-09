@@ -22,11 +22,11 @@ class MoviePage extends StatelessWidget {
                   child: CircleAvatar(
                     backgroundColor: Colors.transparent,
                     child: Image.asset(
-                      'assets/images/logo.png',
+                      'assets/images/movie.png',
                     ),
                   ),
                 ),
-                const Text('Movie DB'),
+                const Text('Movie App'),
               ],
             ),
             actions: [

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:movie_api/movie/providers/movie_serach_provider.dart';
+import 'package:movie_api/movie/providers/movie_search_provider.dart';
 import 'package:movie_api/widget/image_widget.dart';
 import 'package:provider/provider.dart';
 

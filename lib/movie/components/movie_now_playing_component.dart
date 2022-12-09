@@ -69,7 +69,6 @@ class _MovieNowPlayingComponentState extends State<MovieNowPlayingComponent> {
                               height: 200,
                               width: 120,
                               radius: 12.0,
-                              onTap: () {},
                             ),
                             const SizedBox(width: 8.0),
                             Flexible(

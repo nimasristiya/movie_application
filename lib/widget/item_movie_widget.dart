@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:movie_api/movie/models/movie_detail_model.dart';
 import 'package:movie_api/movie/models/movie_model.dart';
-
 import 'image_widget.dart';
 
 class ItemMovieWidget extends Container {
@@ -42,7 +41,6 @@ class ItemMovieWidget extends Container {
                 '${movieDetail != null ? movieDetail!.backdropPath : movie!.backdropPath}',
             height: heightBackdrop,
             width: widthBackdrop,
-            onTap: () {},
           ),
           Container(
             height: heightBackdrop,
@@ -71,7 +69,6 @@ class ItemMovieWidget extends Container {
                   height: heightPoster,
                   width: widthPoster,
                   radius: 12,
-                  onTap: () {},
                 ),
                 const SizedBox(height: 8),
                 Text(

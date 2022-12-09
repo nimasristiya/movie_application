@@ -6,9 +6,9 @@ import 'package:movie_api/movie/providers/movie_get_discover_provider.dart';
 import 'package:movie_api/movie/providers/movie_get_now_playing_provider.dart';
 import 'package:movie_api/movie/providers/movie_get_top_rated_provider.dart';
 import 'package:movie_api/movie/providers/movie_get_videos_provider.dart';
-import 'package:movie_api/movie/providers/movie_serach_provider.dart';
+import 'package:movie_api/movie/providers/movie_search_provider.dart';
 import 'package:movie_api/movie/repositories/movie_repository.dart';
-import 'package:movie_api/movie/repositories/movie_repository_imp.dart';
+import 'package:movie_api/movie/repositories/movie_repository_impl.dart';
 
 final sl = GetIt.instance;
 
