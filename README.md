@@ -1,6 +1,7 @@
 # movie_api
 
 A new Flutter project.
+LIHAT PREVIEW TAMPILAN DI FOLDER 'preview'.
 
 ## Getting Started
 
