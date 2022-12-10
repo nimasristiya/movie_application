@@ -1,7 +1,10 @@
 # movie_api
 
 A new Flutter project.
-LIHAT PREVIEW TAMPILAN DI FOLDER 'preview'.
+
+
+
+
 
 ## Getting Started
 
@@ -15,3 +18,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Keterangan Tambahan
+
+📌 Untuk melihat hasil tampilannya ada di folder 'preview'
+
+👩🏻‍💻 Pengerjaan berada di branch masing², menghindari terjadinya crash. thank you!
